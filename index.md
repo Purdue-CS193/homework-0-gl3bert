@@ -3,9 +3,9 @@
 ### Favorite things about CS193:
 - Taught by other students;
 - Meets once a week;
-- No exam!
+- No exams!
 
-# End of HW0
+### End of HW0
 
 
 ## Welcome to GitHub Pages
