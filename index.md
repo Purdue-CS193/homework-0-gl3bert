@@ -1,6 +1,6 @@
 # Gleb's First CS193 Homework
 
-## Favorite things about CS193:
+### Favorite things about CS193:
 - Taught by other students;
 - Meets once a week;
 - No exam!
