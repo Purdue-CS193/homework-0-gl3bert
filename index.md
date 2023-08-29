@@ -1,11 +1,11 @@
-#Gleb's First CS193 Homework
+# Gleb's First CS193 Homework
 
-##Favorite things about CS193:
--Taught by other students;
--Meets once a week;
--No exam!
+## Favorite things about CS193:
+- Taught by other students;
+- Meets once a week;
+- No exam!
 
-#End of HW0
+# End of HW0
 
 
 ## Welcome to GitHub Pages
